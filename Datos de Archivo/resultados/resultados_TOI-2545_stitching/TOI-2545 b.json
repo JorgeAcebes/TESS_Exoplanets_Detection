@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2545",
+    "planet_name": "TOI-2545 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.25324,
+        "mass_Msun": 1.055
+    },
+    "bls": {
+        "period_days": 7.994119941199411,
+        "t0": 1522.520740403089,
+        "depth": 0.0003356942933079667,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.5045915233076155,
+        "semi_major_axis_AU": 0.07965242003123993
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2545 b",
+        "NEA_st_host": "TOI-2545",
+        "NEA_st_Teff": 5846.29,
+        "NEA_st_rad": 1.25324,
+        "NEA_st_mass": 1.055,
+        "NEA_ra": 135.5458029,
+        "NEA_dec": -3.4208194,
+        "NEA_period_day": 7.994037,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 2.75,
+        "NEA_pl_rad_e_err1": NaN,
+        "NEA_pl_rad_e_err2": NaN,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": NaN
+    }
+}

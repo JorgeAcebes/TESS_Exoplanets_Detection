@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2211",
+    "planet_name": "TOI-2211.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.834386,
+        "mass_Msun": 0.9
+    },
+    "bls": {
+        "period_days": 3.0927459274592746,
+        "t0": 2038.069140162951,
+        "depth": 0.00015813958623910157,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.1445057709554105,
+        "semi_major_axis_AU": 0.040109265986502295
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2211.01",
+        "NEA_st_host": "TOI-2211",
+        "NEA_st_Teff": 5253.0,
+        "NEA_st_rad": 0.834,
+        "NEA_st_mass": 0.9,
+        "NEA_ra": 308.5390859,
+        "NEA_dec": -29.6726127,
+        "NEA_period_day": 3.092686757,
+        "NEA_a_au": 0.04011,
+        "NEA_a_au_err1": 0.001559,
+        "NEA_a_au_err2": 0.001559,
+        "NEA_pl_rad_e:": 1.561,
+        "NEA_pl_rad_e_err1": 0.198,
+        "NEA_pl_rad_e_err2": -0.144,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 296.13,
+        "NEA_pl_eq_temp": NaN
+    }
+}

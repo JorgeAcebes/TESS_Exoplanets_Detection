@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2346",
+    "planet_name": "TOI-2346 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.32502,
+        "mass_Msun": 1.38
+    },
+    "bls": {
+        "period_days": 3.3306483064830643,
+        "t0": 3666.467919855307,
+        "depth": 0.0064186490905707005,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 11.579103330025927,
+        "semi_major_axis_AU": 0.04859369556899298
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2346 b",
+        "NEA_st_host": "TOI-2346",
+        "NEA_st_Teff": 6480.0,
+        "NEA_st_rad": 1.38,
+        "NEA_st_mass": 1.271,
+        "NEA_ra": 88.0929073,
+        "NEA_dec": -13.3724686,
+        "NEA_period_day": 3.3312029,
+        "NEA_a_au": 0.0473,
+        "NEA_a_au_err1": 0.00086,
+        "NEA_a_au_err2": 0.00086,
+        "NEA_pl_rad_e:": 16.11851425,
+        "NEA_pl_rad_e_err1": 0.48198617,
+        "NEA_pl_rad_e_err2": -0.45956821,
+        "NEA_pl_mass": 394.10722468,
+        "NEA_ins_flux": 1360.0,
+        "NEA_pl_eq_temp": 1689.0
+    }
+}

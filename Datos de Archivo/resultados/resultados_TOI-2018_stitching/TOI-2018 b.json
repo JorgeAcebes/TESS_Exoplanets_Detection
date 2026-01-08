@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2018",
+    "planet_name": "TOI-2018 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.622512,
+        "mass_Msun": 0.66
+    },
+    "bls": {
+        "period_days": 7.435634356343563,
+        "t0": 1958.2494505466916,
+        "depth": 0.0007217258042167753,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.8241666999082717,
+        "semi_major_axis_AU": 0.06491240661689862
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2018 b",
+        "NEA_st_host": "TOI-2018",
+        "NEA_st_Teff": 4174.0,
+        "NEA_st_rad": 0.62,
+        "NEA_st_mass": 0.57,
+        "NEA_ra": 229.8374423,
+        "NEA_dec": 29.2078771,
+        "NEA_period_day": 7.435583,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 2.268,
+        "NEA_pl_rad_e_err1": 0.069,
+        "NEA_pl_rad_e_err2": -0.069,
+        "NEA_pl_mass": 9.2,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": NaN
+    }
+}

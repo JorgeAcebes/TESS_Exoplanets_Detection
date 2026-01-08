@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1759",
+    "planet_name": "TOI-1759 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.627046,
+        "mass_Msun": 0.609617
+    },
+    "bls": {
+        "period_days": 18.850073500735007,
+        "t0": 1745.4595558232268,
+        "depth": 0.0013804747406480846,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.541231987159967,
+        "semi_major_axis_AU": 0.1175336176492408
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1759 b",
+        "NEA_st_host": "TOI-1759",
+        "NEA_st_Teff": 3972.0,
+        "NEA_st_rad": 0.628,
+        "NEA_st_mass": 0.61,
+        "NEA_ra": 326.8516615,
+        "NEA_dec": 62.7538164,
+        "NEA_period_day": 18.849975,
+        "NEA_a_au": 0.1176,
+        "NEA_a_au_err1": 0.0013,
+        "NEA_a_au_err2": 0.0013,
+        "NEA_pl_rad_e:": 3.06,
+        "NEA_pl_rad_e_err1": 0.22,
+        "NEA_pl_rad_e_err2": -0.22,
+        "NEA_pl_mass": 6.8,
+        "NEA_ins_flux": 6.39,
+        "NEA_pl_eq_temp": 433.0
+    }
+}

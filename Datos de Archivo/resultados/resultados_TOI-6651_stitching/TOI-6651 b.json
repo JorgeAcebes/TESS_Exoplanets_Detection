@@ -1,0 +1,38 @@
+{
+    "target": "TOI-6651",
+    "planet_name": "TOI-6651 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.80219,
+        "mass_Msun": 1.047
+    },
+    "bls": {
+        "period_days": 5.054855548555485,
+        "t0": 3585.919312388705,
+        "depth": 0.0004549795974117265,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 4.19302272181732,
+        "semi_major_axis_AU": 0.05853142652516815
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-6651 b",
+        "NEA_st_host": "TOI-6651",
+        "NEA_st_Teff": 5940.0,
+        "NEA_st_rad": 1.721,
+        "NEA_st_mass": 1.323,
+        "NEA_ra": 15.7885904,
+        "NEA_dec": 35.3890405,
+        "NEA_period_day": 5.056973,
+        "NEA_a_au": 0.0633,
+        "NEA_a_au_err1": 0.00078,
+        "NEA_a_au_err2": 0.00078,
+        "NEA_pl_rad_e:": 5.09,
+        "NEA_pl_rad_e_err1": 0.27,
+        "NEA_pl_rad_e_err2": -0.26,
+        "NEA_pl_mass": 61.0,
+        "NEA_ins_flux": 817.0,
+        "NEA_pl_eq_temp": 1493.0
+    }
+}

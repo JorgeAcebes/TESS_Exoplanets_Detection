@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4465",
+    "planet_name": "TOI-4465 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.992285,
+        "mass_Msun": 0.979
+    },
+    "bls": {
+        "period_days": 4.743437434374344,
+        "t0": 2013.6119272469753,
+        "depth": 0.00031394973472530035,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.9177728490865071,
+        "semi_major_axis_AU": 0.054860201328836664
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4465 b",
+        "NEA_st_host": "TOI-4465",
+        "NEA_st_Teff": 5545.0,
+        "NEA_st_rad": 1.014,
+        "NEA_st_mass": 0.93,
+        "NEA_ra": 276.1340312,
+        "NEA_dec": 15.8418856,
+        "NEA_period_day": 101.94054,
+        "NEA_a_au": 0.416,
+        "NEA_a_au_err1": 0.014,
+        "NEA_a_au_err2": 0.014,
+        "NEA_pl_rad_e:": 14.01122587,
+        "NEA_pl_rad_e_err1": 0.89671846,
+        "NEA_pl_rad_e_err2": -0.78462865,
+        "NEA_pl_mass": 1872.00931723,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 427.0
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-6330",
+    "planet_name": "TOI-6330 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.475482,
+        "mass_Msun": 0.473309
+    },
+    "bls": {
+        "period_days": 6.850433504335044,
+        "t0": 3613.764632415761,
+        "depth": 0.04209267133031853,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 10.640646224023968,
+        "semi_major_axis_AU": 0.055012494690607844
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-6330 b",
+        "NEA_st_host": "TOI-6330",
+        "NEA_st_Teff": 3539.0,
+        "NEA_st_rad": 0.49,
+        "NEA_st_mass": 0.531,
+        "NEA_ra": 22.1679816,
+        "NEA_dec": 53.6860778,
+        "NEA_period_day": 6.8500246,
+        "NEA_a_au": 0.05763,
+        "NEA_a_au_err1": 0.00073,
+        "NEA_a_au_err2": 0.00073,
+        "NEA_pl_rad_e:": 10.89,
+        "NEA_pl_rad_e_err1": 0.37,
+        "NEA_pl_rad_e_err2": -0.35,
+        "NEA_pl_mass": 3179.0,
+        "NEA_ins_flux": 9.97,
+        "NEA_pl_eq_temp": 495.0
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-5592",
+    "planet_name": "TOI-5592 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.38318,
+        "mass_Msun": 1.25
+    },
+    "bls": {
+        "period_days": 2.608556085560856,
+        "t0": 2940.0933357926715,
+        "depth": 0.007287908120255947,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 12.879850565852538,
+        "semi_major_axis_AU": 0.0399488705746003
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-5592 b",
+        "NEA_st_host": "TOI-5592",
+        "NEA_st_Teff": 6237.0,
+        "NEA_st_rad": 1.393,
+        "NEA_st_mass": 1.194,
+        "NEA_ra": 106.6800684,
+        "NEA_dec": 65.857249,
+        "NEA_period_day": 2.6085846,
+        "NEA_a_au": 0.03935,
+        "NEA_a_au_err1": 0.00074,
+        "NEA_a_au_err2": 0.00074,
+        "NEA_pl_rad_e:": 17.14974047,
+        "NEA_pl_rad_e_err1": 3.58687382,
+        "NEA_pl_rad_e_err2": -1.79343691,
+        "NEA_pl_mass": 285.72773789,
+        "NEA_ins_flux": 1712.0,
+        "NEA_pl_eq_temp": 1789.0
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1899",
+    "planet_name": "TOI-1899 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.617863,
+        "mass_Msun": 0.602425
+    },
+    "bls": {
+        "period_days": 14.545015450154501,
+        "t0": 1697.4217137138246,
+        "depth": 0.004220401382425948,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 4.3782418340503835,
+        "semi_major_axis_AU": 0.09848683220763826
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1899 b",
+        "NEA_st_host": "TOI-1899",
+        "NEA_st_Teff": 3841.0,
+        "NEA_st_rad": 0.607,
+        "NEA_st_mass": 0.627,
+        "NEA_ra": 299.4268472,
+        "NEA_dec": 40.1433462,
+        "NEA_period_day": 29.02,
+        "NEA_a_au": 0.1587,
+        "NEA_a_au_err1": 0.0067,
+        "NEA_a_au_err2": 0.0067,
+        "NEA_pl_rad_e:": 12.89035,
+        "NEA_pl_rad_e_err1": 0.44836,
+        "NEA_pl_rad_e_err2": -0.56045,
+        "NEA_pl_mass": 209.7678,
+        "NEA_ins_flux": 2.9,
+        "NEA_pl_eq_temp": 362.0
+    }
+}

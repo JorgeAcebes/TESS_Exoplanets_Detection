@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1659",
+    "planet_name": "TOI-1659.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.00568,
+        "mass_Msun": 1.098
+    },
+    "bls": {
+        "period_days": 7.247457474574745,
+        "t0": 1685.8025271853335,
+        "depth": 0.0004959110910222573,
+        "duration_days": 0.33
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.442825266467759,
+        "semi_major_axis_AU": 0.07561227048444895
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1659.01",
+        "NEA_st_host": "TOI-1659",
+        "NEA_st_Teff": 5977.0,
+        "NEA_st_rad": 1.006,
+        "NEA_st_mass": 1.1,
+        "NEA_ra": 277.9251938,
+        "NEA_dec": 82.3059487,
+        "NEA_period_day": 5.877556328,
+        "NEA_a_au": 0.065757,
+        "NEA_a_au_err1": 0.002686,
+        "NEA_a_au_err2": 0.002686,
+        "NEA_pl_rad_e:": 2.255,
+        "NEA_pl_rad_e_err1": 0.254,
+        "NEA_pl_rad_e_err2": -0.157,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 268.44,
+        "NEA_pl_eq_temp": NaN
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-269",
+    "planet_name": "TOI-269 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.397924,
+        "mass_Msun": 0.389135
+    },
+    "bls": {
+        "period_days": 3.6976419764197637,
+        "t0": 1389.2718454879507,
+        "depth": 0.0019190615569347654,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.9014077757715624,
+        "semi_major_axis_AU": 0.03416523291059542
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-269 b",
+        "NEA_st_host": "TOI-269",
+        "NEA_st_Teff": 3514.0,
+        "NEA_st_rad": 0.398,
+        "NEA_st_mass": 0.3917,
+        "NEA_ra": 75.8462827,
+        "NEA_dec": -54.1777213,
+        "NEA_period_day": 3.6977155,
+        "NEA_a_au": 0.0345,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": NaN,
+        "NEA_pl_rad_e_err1": NaN,
+        "NEA_pl_rad_e_err2": NaN,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 19.0,
+        "NEA_pl_eq_temp": 531.0
+    }
+}

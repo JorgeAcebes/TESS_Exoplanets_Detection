@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1478",
+    "planet_name": "TOI-1478 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.03709,
+        "mass_Msun": 0.996
+    },
+    "bls": {
+        "period_days": 10.180286802868029,
+        "t0": 2239.080781729924,
+        "depth": 0.004506023652449072,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 7.593532558971554,
+        "semi_major_axis_AU": 0.09180383781174162
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1478 b",
+        "NEA_st_host": "TOI-1478",
+        "NEA_st_Teff": 5597.0,
+        "NEA_st_rad": 1.048,
+        "NEA_st_mass": 0.947,
+        "NEA_ra": 126.4337428,
+        "NEA_dec": -13.5595485,
+        "NEA_period_day": 10.180249,
+        "NEA_a_au": 0.0903,
+        "NEA_a_au_err1": 0.0018,
+        "NEA_a_au_err2": 0.0018,
+        "NEA_pl_rad_e:": 11.88154,
+        "NEA_pl_rad_e_err1": 0.44836,
+        "NEA_pl_rad_e_err2": -0.437151,
+        "NEA_pl_mass": 270.47333,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 918.0
+    }
+}

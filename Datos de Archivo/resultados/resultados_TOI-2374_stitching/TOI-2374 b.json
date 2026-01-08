@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2374",
+    "planet_name": "TOI-2374 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.798703,
+        "mass_Msun": 0.773
+    },
+    "bls": {
+        "period_days": 13.12189121891219,
+        "t0": 2071.6867007523397,
+        "depth": 0.016385040965467074,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 11.15166618394322,
+        "semi_major_axis_AU": 0.09992139810786184
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2374 b",
+        "NEA_st_host": "TOI-2374",
+        "NEA_st_Teff": 4802.0,
+        "NEA_st_rad": 0.69,
+        "NEA_st_mass": 0.75,
+        "NEA_ra": 319.4982407,
+        "NEA_dec": -22.0498228,
+        "NEA_period_day": 4.31361,
+        "NEA_a_au": 0.0471,
+        "NEA_a_au_err1": 0.0002,
+        "NEA_a_au_err2": 0.0002,
+        "NEA_pl_rad_e:": 6.81,
+        "NEA_pl_rad_e_err1": 0.3,
+        "NEA_pl_rad_e_err2": -0.3,
+        "NEA_pl_mass": 56.64,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 885.0
+    }
+}

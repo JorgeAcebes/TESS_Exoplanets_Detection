@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2046",
+    "planet_name": "TOI-2046 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.24319,
+        "mass_Msun": 1.139
+    },
+    "bls": {
+        "period_days": 1.497239972399724,
+        "t0": 2883.822480126663,
+        "depth": 0.0058369479369541274,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 10.360032006588769,
+        "semi_major_axis_AU": 0.026748734011107986
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2046 b",
+        "NEA_st_host": "TOI-2046",
+        "NEA_st_Teff": 6250.0,
+        "NEA_st_rad": 1.21,
+        "NEA_st_mass": 1.13,
+        "NEA_ra": 16.1849423,
+        "NEA_dec": 74.3313055,
+        "NEA_period_day": 1.4971842,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 16.14093221,
+        "NEA_pl_rad_e_err1": 1.23298788,
+        "NEA_pl_rad_e_err2": -1.23298788,
+        "NEA_pl_mass": 731.0053361,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": NaN
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1776",
+    "planet_name": "TOI-1776 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.945408,
+        "mass_Msun": 1.02
+    },
+    "bls": {
+        "period_days": 2.7998529985299854,
+        "t0": 1871.493719180824,
+        "depth": 0.00015980423180966596,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.303599214477015,
+        "semi_major_axis_AU": 0.039134332083838715
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1776 b",
+        "NEA_st_host": "TOI-1776",
+        "NEA_st_Teff": 5785.0,
+        "NEA_st_rad": 0.9356,
+        "NEA_st_mass": 0.9196,
+        "NEA_ra": 164.7772913,
+        "NEA_dec": 40.9837182,
+        "NEA_period_day": 2.799868,
+        "NEA_a_au": 0.0378,
+        "NEA_a_au_err1": 0.0007,
+        "NEA_a_au_err2": 0.0007,
+        "NEA_pl_rad_e:": 1.21612741,
+        "NEA_pl_rad_e_err1": 0.0898466,
+        "NEA_pl_rad_e_err2": -0.07715788,
+        "NEA_pl_mass": 1.4,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1269.21
+    }
+}

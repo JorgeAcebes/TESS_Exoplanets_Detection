@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1184",
+    "planet_name": "TOI-1184 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.692384,
+        "mass_Msun": 0.71
+    },
+    "bls": {
+        "period_days": 5.748477484774848,
+        "t0": 1684.349504574968,
+        "depth": 0.0008033835605285477,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.140617999764249,
+        "semi_major_axis_AU": 0.056025927473972656
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1184 b",
+        "NEA_st_host": "TOI-1184",
+        "NEA_st_Teff": 4617.0,
+        "NEA_st_rad": 0.6972,
+        "NEA_st_mass": 0.7271,
+        "NEA_ra": 272.2045196,
+        "NEA_dec": 60.6787845,
+        "NEA_period_day": 5.748432,
+        "NEA_a_au": 0.056,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 2.40974309,
+        "NEA_pl_rad_e_err1": 0.10174918,
+        "NEA_pl_rad_e_err2": -0.14440598,
+        "NEA_pl_mass": 6.8,
+        "NEA_ins_flux": 57.54,
+        "NEA_pl_eq_temp": 715.47
+    }
+}

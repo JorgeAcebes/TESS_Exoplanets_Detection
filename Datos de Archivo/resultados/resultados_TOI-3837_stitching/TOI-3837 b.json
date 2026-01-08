@@ -1,0 +1,38 @@
+{
+    "target": "TOI-3837",
+    "planet_name": "TOI-3837 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.21487,
+        "mass_Msun": 1.03
+    },
+    "bls": {
+        "period_days": 11.889088890888909,
+        "t0": 2530.159496990523,
+        "depth": 0.006165585862266793,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 10.405133628668185,
+        "semi_major_axis_AU": 0.10295461993459713
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-3837 b",
+        "NEA_st_host": "TOI-3837",
+        "NEA_st_Teff": 5905.0,
+        "NEA_st_rad": 1.2,
+        "NEA_st_mass": 0.89,
+        "NEA_ra": 152.6662832,
+        "NEA_dec": 24.2731213,
+        "NEA_period_day": 11.88865,
+        "NEA_a_au": 0.099,
+        "NEA_a_au_err1": 0.006,
+        "NEA_a_au_err2": 0.006,
+        "NEA_pl_rad_e:": 10.87271128,
+        "NEA_pl_rad_e_err1": 0.56044903,
+        "NEA_pl_rad_e_err2": -0.67253884,
+        "NEA_pl_mass": 187.51876013,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1178.0
+    }
+}

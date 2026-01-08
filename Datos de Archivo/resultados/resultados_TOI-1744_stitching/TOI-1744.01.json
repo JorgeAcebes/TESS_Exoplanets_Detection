@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1744",
+    "planet_name": "TOI-1744.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.13948,
+        "mass_Msun": 1.181
+    },
+    "bls": {
+        "period_days": 11.17070170701707,
+        "t0": 1690.7747397888186,
+        "depth": 0.0001628811246080548,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.5862541297443895,
+        "semi_major_axis_AU": 0.1033724123257006
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1744.01",
+        "NEA_st_host": "TOI-1744",
+        "NEA_st_Teff": 6179.0,
+        "NEA_st_rad": 1.14,
+        "NEA_st_mass": 1.18,
+        "NEA_ra": 294.2910707,
+        "NEA_dec": 60.881302,
+        "NEA_period_day": 22.341702927,
+        "NEA_a_au": 0.164086,
+        "NEA_a_au_err1": 0.007321,
+        "NEA_a_au_err2": 0.007321,
+        "NEA_pl_rad_e:": 2.68,
+        "NEA_pl_rad_e_err1": 0.263,
+        "NEA_pl_rad_e_err2": -0.172,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 63.31,
+        "NEA_pl_eq_temp": NaN
+    }
+}

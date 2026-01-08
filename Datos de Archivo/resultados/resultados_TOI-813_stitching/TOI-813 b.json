@@ -1,0 +1,38 @@
+{
+    "target": "TOI-813",
+    "planet_name": "TOI-813 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 2.04354,
+        "mass_Msun": 1.05
+    },
+    "bls": {
+        "period_days": 16.779542795427954,
+        "t0": 1421.138585553591,
+        "depth": 0.00011176319650127525,
+        "duration_days": 0.33
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.3564771309957577,
+        "semi_major_axis_AU": 0.13037197073304033
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-813 b",
+        "NEA_st_host": "TOI-813",
+        "NEA_st_Teff": 5907.0,
+        "NEA_st_rad": 1.94,
+        "NEA_st_mass": 1.32,
+        "NEA_ra": 72.6940102,
+        "NEA_dec": -60.9054608,
+        "NEA_period_day": 83.891,
+        "NEA_a_au": 0.423,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 6.72538842,
+        "NEA_pl_rad_e_err1": 0.33626942,
+        "NEA_pl_rad_e_err2": -0.33626942,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 23.1,
+        "NEA_pl_eq_temp": 610.0
+    }
+}

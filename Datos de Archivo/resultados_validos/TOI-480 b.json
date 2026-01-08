@@ -1,0 +1,38 @@
+{
+    "target": "TOI-480",
+    "planet_name": "TOI-480 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.50004,
+        "mass_Msun": 1.2
+    },
+    "bls": {
+        "period_days": 6.865838658386585,
+        "t0": 1469.5764708959707,
+        "depth": 0.00020577259582868018,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.3470767288714582,
+        "semi_major_axis_AU": 0.07512604507189535
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-480 b",
+        "NEA_st_host": "TOI-480",
+        "NEA_st_Teff": 6174.0,
+        "NEA_st_rad": 1.4877,
+        "NEA_st_mass": 1.2793,
+        "NEA_ra": 88.3784618,
+        "NEA_dec": -16.2653974,
+        "NEA_period_day": 6.866196,
+        "NEA_a_au": 0.077,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 2.85372018,
+        "NEA_pl_rad_e_err1": 0.13233983,
+        "NEA_pl_rad_e_err2": -0.10240654,
+        "NEA_pl_mass": 20.8,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1198.94
+    }
+}

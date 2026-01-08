@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4184",
+    "planet_name": "TOI-4184 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.240807,
+        "mass_Msun": 0.210978
+    },
+    "bls": {
+        "period_days": 4.901974019740197,
+        "t0": 1326.7924851379546,
+        "depth": 0.008119020025148582,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.366745678351861,
+        "semi_major_axis_AU": 0.033619721320328165
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4184 b",
+        "NEA_st_host": "TOI-4184",
+        "NEA_st_Teff": 3238.0,
+        "NEA_st_rad": 0.2347,
+        "NEA_st_mass": 0.2109,
+        "NEA_ra": 43.8284749,
+        "NEA_dec": -79.4147039,
+        "NEA_period_day": 4.9019804,
+        "NEA_a_au": 0.0336,
+        "NEA_a_au_err1": 0.0015,
+        "NEA_a_au_err2": 0.0015,
+        "NEA_pl_rad_e:": 2.43,
+        "NEA_pl_rad_e_err1": 0.21,
+        "NEA_pl_rad_e_err2": -0.21,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 4.8,
+        "NEA_pl_eq_temp": 412.0
+    }
+}

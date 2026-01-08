@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4773",
+    "planet_name": "TOI-4773 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.48714,
+        "mass_Msun": 1.41
+    },
+    "bls": {
+        "period_days": 1.7452824528245283,
+        "t0": 2965.0056251042515,
+        "depth": 0.006580387046274546,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 13.158556626337688,
+        "semi_major_axis_AU": 0.03181153076513373
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4773 b",
+        "NEA_st_host": "TOI-4773",
+        "NEA_st_Teff": 6740.0,
+        "NEA_st_rad": 1.55,
+        "NEA_st_mass": 1.452,
+        "NEA_ra": 114.9426489,
+        "NEA_dec": -21.4856184,
+        "NEA_period_day": 1.7452851,
+        "NEA_a_au": 0.03216,
+        "NEA_a_au_err1": 0.0006,
+        "NEA_a_au_err2": 0.0006,
+        "NEA_pl_rad_e:": 15.22179579,
+        "NEA_pl_rad_e_err1": 0.54924005,
+        "NEA_pl_rad_e_err2": -0.53803107,
+        "NEA_pl_mass": 1687.66884117,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 2255.0
+    }
+}

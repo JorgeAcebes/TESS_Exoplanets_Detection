@@ -1,0 +1,38 @@
+{
+    "target": "TOI-150",
+    "planet_name": "TOI-150.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.67987,
+        "mass_Msun": 1.1
+    },
+    "bls": {
+        "period_days": 5.857483574835748,
+        "t0": 1548.8465134328715,
+        "depth": 0.0032385295119248887,
+        "duration_days": 0.2
+    },
+    "physical": {
+        "planet_radius_Rearth": 10.427502029980404,
+        "semi_major_axis_AU": 0.06564565662256708
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-150.01",
+        "NEA_st_host": "TOI-150",
+        "NEA_st_Teff": 6255.0,
+        "NEA_st_rad": 1.526,
+        "NEA_st_mass": 1.351,
+        "NEA_ra": 112.965421,
+        "NEA_dec": -73.6060358,
+        "NEA_period_day": 5.857487,
+        "NEA_a_au": 0.07037,
+        "NEA_a_au_err1": 0.00087,
+        "NEA_a_au_err2": 0.00087,
+        "NEA_pl_rad_e:": 14.067295,
+        "NEA_pl_rad_e_err1": 0.235389,
+        "NEA_pl_rad_e_err2": -0.212971,
+        "NEA_pl_mass": 797.7533,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1404.5
+    }
+}

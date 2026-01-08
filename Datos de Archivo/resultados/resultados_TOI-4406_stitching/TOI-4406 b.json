@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4406",
+    "planet_name": "TOI-4406 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.41293,
+        "mass_Msun": 1.07
+    },
+    "bls": {
+        "period_days": 19.893138931389313,
+        "t0": 2074.313647859133,
+        "depth": 0.003570668870735231,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 9.209289262209825,
+        "semi_major_axis_AU": 0.1469595629528898
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4406 b",
+        "NEA_st_host": "TOI-4406",
+        "NEA_st_Teff": 6219.0,
+        "NEA_st_rad": 1.29,
+        "NEA_st_mass": 1.19,
+        "NEA_ra": 18.0485164,
+        "NEA_dec": -56.9253875,
+        "NEA_period_day": 30.08364,
+        "NEA_a_au": 0.201,
+        "NEA_a_au_err1": 0.005,
+        "NEA_a_au_err2": 0.005,
+        "NEA_pl_rad_e:": 11.2089807,
+        "NEA_pl_rad_e_err1": 0.22417961,
+        "NEA_pl_rad_e_err2": -0.22417961,
+        "NEA_pl_mass": 95.3485221,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 904.0
+    }
+}

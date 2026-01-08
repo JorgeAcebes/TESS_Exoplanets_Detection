@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2567",
+    "planet_name": "TOI-2567 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.71761,
+        "mass_Msun": 0.99
+    },
+    "bls": {
+        "period_days": 5.983844838448385,
+        "t0": 2390.763549340144,
+        "depth": 0.0031705985496563965,
+        "duration_days": 0.2
+    },
+    "physical": {
+        "planet_radius_Rearth": 10.549354035828411,
+        "semi_major_axis_AU": 0.06428845607489121
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2567 b",
+        "NEA_st_host": "TOI-2567",
+        "NEA_st_Teff": 5611.0,
+        "NEA_st_rad": 1.686,
+        "NEA_st_mass": 1.13,
+        "NEA_ra": 288.4656683,
+        "NEA_dec": 66.3479375,
+        "NEA_period_day": 5.983944,
+        "NEA_a_au": 0.0672,
+        "NEA_a_au_err1": 0.0024,
+        "NEA_a_au_err2": 0.0024,
+        "NEA_pl_rad_e:": 10.92875618,
+        "NEA_pl_rad_e_err1": 0.3474784,
+        "NEA_pl_rad_e_err2": -0.32506044,
+        "NEA_pl_mass": 63.88350981,
+        "NEA_ins_flux": 558.0,
+        "NEA_pl_eq_temp": 1352.0
+    }
+}

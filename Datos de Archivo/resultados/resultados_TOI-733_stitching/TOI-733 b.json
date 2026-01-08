@@ -1,0 +1,38 @@
+{
+    "target": "TOI-733",
+    "planet_name": "TOI-733 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.937681,
+        "mass_Msun": 1.01
+    },
+    "bls": {
+        "period_days": 4.8848138481384815,
+        "t0": 1545.7680472184104,
+        "depth": 0.0003454838934564797,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.9010769578381375,
+        "semi_major_axis_AU": 0.05652928842781364
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-733 b",
+        "NEA_st_host": "TOI-733",
+        "NEA_st_Teff": 5585.0,
+        "NEA_st_rad": 0.949,
+        "NEA_st_mass": 0.956,
+        "NEA_ra": 159.4093183,
+        "NEA_dec": -40.888259,
+        "NEA_period_day": 4.884765,
+        "NEA_a_au": 0.0618,
+        "NEA_a_au_err1": 0.0036,
+        "NEA_a_au_err2": 0.0036,
+        "NEA_pl_rad_e:": 1.992,
+        "NEA_pl_rad_e_err1": 0.085,
+        "NEA_pl_rad_e_err2": -0.09,
+        "NEA_pl_mass": 5.72,
+        "NEA_ins_flux": 207.1,
+        "NEA_pl_eq_temp": 1055.8
+    }
+}

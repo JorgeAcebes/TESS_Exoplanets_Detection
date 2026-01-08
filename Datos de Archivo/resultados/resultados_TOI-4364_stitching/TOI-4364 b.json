@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4364",
+    "planet_name": "TOI-4364 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.465777,
+        "mass_Msun": 0.463239
+    },
+    "bls": {
+        "period_days": 2.098430984309843,
+        "t0": 1438.9391568406918,
+        "depth": 0.0010738984031470771,
+        "duration_days": 0.33
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.6649082942193116,
+        "semi_major_axis_AU": 0.024819853513891557
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4364 b",
+        "NEA_st_host": "TOI-4364",
+        "NEA_st_Teff": 3528.0,
+        "NEA_st_rad": 0.4684,
+        "NEA_st_mass": 0.487,
+        "NEA_ra": 80.066927,
+        "NEA_dec": -4.2392481,
+        "NEA_period_day": 5.424019,
+        "NEA_a_au": 0.04753,
+        "NEA_a_au_err1": 0.00053,
+        "NEA_a_au_err2": 0.00053,
+        "NEA_pl_rad_e:": 2.01,
+        "NEA_pl_rad_e_err1": 0.1,
+        "NEA_pl_rad_e_err2": -0.08,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 488.0
+    }
+}

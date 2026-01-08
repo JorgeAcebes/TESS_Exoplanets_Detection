@@ -1,0 +1,38 @@
+{
+    "target": "TOI-6223",
+    "planet_name": "TOI-6223 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.599111,
+        "mass_Msun": 0.587363
+    },
+    "bls": {
+        "period_days": 3.8546185461854625,
+        "t0": 3585.12998879063,
+        "depth": 0.007299787149272889,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 5.583327093045775,
+        "semi_major_axis_AU": 0.040292496938917705
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-6223 b",
+        "NEA_st_host": "TOI-6223",
+        "NEA_st_Teff": 3895.0,
+        "NEA_st_rad": 0.576,
+        "NEA_st_mass": 0.582,
+        "NEA_ra": 355.9505977,
+        "NEA_dec": 33.0672361,
+        "NEA_period_day": 3.855219,
+        "NEA_a_au": 0.04018,
+        "NEA_a_au_err1": 0.00061,
+        "NEA_a_au_err2": 0.00061,
+        "NEA_pl_rad_e:": 5.07,
+        "NEA_pl_rad_e_err1": 0.22,
+        "NEA_pl_rad_e_err2": -0.22,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 714.0
+    }
+}

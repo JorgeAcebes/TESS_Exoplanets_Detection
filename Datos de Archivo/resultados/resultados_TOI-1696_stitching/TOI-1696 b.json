@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1696",
+    "planet_name": "TOI-1696 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.280475,
+        "mass_Msun": 0.254505
+    },
+    "bls": {
+        "period_days": 2.500330003300033,
+        "t0": 1816.6944844491316,
+        "depth": 0.007368868858393406,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.6261845965973456,
+        "semi_major_axis_AU": 0.022847115466124366
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1696 b",
+        "NEA_st_host": "TOI-1696",
+        "NEA_st_Teff": 3185.0,
+        "NEA_st_rad": 0.2775,
+        "NEA_st_mass": 0.255,
+        "NEA_ra": 65.280648,
+        "NEA_dec": 48.8198312,
+        "NEA_period_day": 2.500311,
+        "NEA_a_au": 0.0229,
+        "NEA_a_au_err1": 0.0002,
+        "NEA_a_au_err2": 0.0002,
+        "NEA_pl_rad_e:": 3.09,
+        "NEA_pl_rad_e_err1": 0.11,
+        "NEA_pl_rad_e_err2": -0.11,
+        "NEA_pl_mass": 48.8,
+        "NEA_ins_flux": 13.5,
+        "NEA_pl_eq_temp": 489.0
+    }
+}

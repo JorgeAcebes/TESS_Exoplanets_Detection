@@ -1,0 +1,38 @@
+{
+    "target": "TOI-3464",
+    "planet_name": "TOI-3464 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.5928,
+        "mass_Msun": 1.26
+    },
+    "bls": {
+        "period_days": 3.6506465064650646,
+        "t0": 3072.374400483399,
+        "depth": 0.004010834415972588,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 11.002953883061123,
+        "semi_major_axis_AU": 0.050115386622330324
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-3464 b",
+        "NEA_st_host": "TOI-3464",
+        "NEA_st_Teff": 6370.0,
+        "NEA_st_rad": 1.56,
+        "NEA_st_mass": 1.363,
+        "NEA_ra": 234.4830357,
+        "NEA_dec": -44.7899772,
+        "NEA_period_day": 3.6515568,
+        "NEA_a_au": 0.0515,
+        "NEA_a_au_err1": 0.0012,
+        "NEA_a_au_err2": 0.0012,
+        "NEA_pl_rad_e:": 13.7646283,
+        "NEA_pl_rad_e_err1": 0.6389119,
+        "NEA_pl_rad_e_err2": -0.59407598,
+        "NEA_pl_mass": 397.28550875,
+        "NEA_ins_flux": 1370.0,
+        "NEA_pl_eq_temp": 1693.0
+    }
+}

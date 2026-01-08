@@ -1,0 +1,38 @@
+{
+    "target": "TOI-6029",
+    "planet_name": "TOI-6029 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 2.55042,
+        "mass_Msun": 1.057
+    },
+    "bls": {
+        "period_days": 5.799762997629976,
+        "t0": 2887.421647871136,
+        "depth": 0.002060573716692257,
+        "duration_days": 0.25
+    },
+    "physical": {
+        "planet_radius_Rearth": 12.628054938352836,
+        "semi_major_axis_AU": 0.06435261643389847
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-6029 b",
+        "NEA_st_host": "TOI-6029",
+        "NEA_st_Teff": 6223.0,
+        "NEA_st_rad": 2.338,
+        "NEA_st_mass": 1.548,
+        "NEA_ra": 8.3862555,
+        "NEA_dec": 61.8607659,
+        "NEA_period_day": 5.7987,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 14.39233122,
+        "NEA_pl_rad_e_err1": 1.09848011,
+        "NEA_pl_rad_e_err2": -1.09848011,
+        "NEA_pl_mass": 519.64944544,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": NaN
+    }
+}

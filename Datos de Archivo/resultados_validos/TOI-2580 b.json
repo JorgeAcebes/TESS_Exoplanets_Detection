@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2580",
+    "planet_name": "TOI-2580 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.82904,
+        "mass_Msun": 1.373
+    },
+    "bls": {
+        "period_days": 3.397728977289773,
+        "t0": 2913.1417731641604,
+        "depth": 0.003718749223948548,
+        "duration_days": 0.2
+    },
+    "physical": {
+        "planet_radius_Rearth": 12.166126527490169,
+        "semi_major_axis_AU": 0.04916058593203887
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2580 b",
+        "NEA_st_host": "TOI-2580",
+        "NEA_st_Teff": 6120.0,
+        "NEA_st_rad": 1.81,
+        "NEA_st_mass": 1.33,
+        "NEA_ra": 62.1992072,
+        "NEA_dec": 67.1165264,
+        "NEA_period_day": 3.39775,
+        "NEA_a_au": 0.048,
+        "NEA_a_au_err1": 0.003,
+        "NEA_a_au_err2": 0.003,
+        "NEA_pl_rad_e:": 17.37392009,
+        "NEA_pl_rad_e_err1": 0.56044903,
+        "NEA_pl_rad_e_err2": -0.56044903,
+        "NEA_pl_mass": 200.23189641,
+        "NEA_ins_flux": 1730.0,
+        "NEA_pl_eq_temp": 2410.0
+    }
+}

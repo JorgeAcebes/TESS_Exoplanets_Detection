@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2989",
+    "planet_name": "TOI-2989 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.765711,
+        "mass_Msun": 0.666
+    },
+    "bls": {
+        "period_days": 3.121021210212102,
+        "t0": 3748.10444270265,
+        "depth": 0.015306521649811533,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 10.33317585281872,
+        "semi_major_axis_AU": 0.03649978210546367
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2989 b",
+        "NEA_st_host": "TOI-2989",
+        "NEA_st_Teff": 4672.0,
+        "NEA_st_rad": 0.76,
+        "NEA_st_mass": 0.77,
+        "NEA_ra": 171.2316754,
+        "NEA_dec": -27.0623619,
+        "NEA_period_day": 3.122832,
+        "NEA_a_au": 0.0384,
+        "NEA_a_au_err1": 0.0003,
+        "NEA_a_au_err2": 0.0003,
+        "NEA_pl_rad_e:": 12.55405838,
+        "NEA_pl_rad_e_err1": 0.56044903,
+        "NEA_pl_rad_e_err2": -0.56044903,
+        "NEA_pl_mass": 953.485221,
+        "NEA_ins_flux": 124.0,
+        "NEA_pl_eq_temp": 1001.0
+    }
+}

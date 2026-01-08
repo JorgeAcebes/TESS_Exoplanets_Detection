@@ -1,0 +1,38 @@
+{
+    "target": "TOI-913",
+    "planet_name": "TOI-913 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.732535,
+        "mass_Msun": 0.82
+    },
+    "bls": {
+        "period_days": 11.099330993309934,
+        "t0": 1636.319859783747,
+        "depth": 0.0006919217572104248,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.101781439673635,
+        "semi_major_axis_AU": 0.09114584340287403
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-913 b",
+        "NEA_st_host": "TOI-913",
+        "NEA_st_Teff": 4969.0,
+        "NEA_st_rad": 0.7325,
+        "NEA_st_mass": 0.82,
+        "NEA_ra": 234.5723244,
+        "NEA_dec": -80.8034265,
+        "NEA_period_day": 11.098644,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 2.4528,
+        "NEA_pl_rad_e_err1": 0.1269,
+        "NEA_pl_rad_e_err2": -0.1009,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 712.01
+    }
+}

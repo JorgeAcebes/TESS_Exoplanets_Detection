@@ -1,0 +1,38 @@
+{
+    "target": "TOI-3568",
+    "planet_name": "TOI-3568 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.785799,
+        "mass_Msun": 0.792
+    },
+    "bls": {
+        "period_days": 4.417979179791798,
+        "t0": 2799.379207858601,
+        "depth": 0.005722455278511166,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 6.483855905404324,
+        "semi_major_axis_AU": 0.04875193814108899
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-3568 b",
+        "NEA_st_host": "TOI-3568",
+        "NEA_st_Teff": 4969.0,
+        "NEA_st_rad": 0.719,
+        "NEA_st_mass": 0.78,
+        "NEA_ra": 322.6023682,
+        "NEA_dec": 34.7395805,
+        "NEA_period_day": 4.417965,
+        "NEA_a_au": 0.0485,
+        "NEA_a_au_err1": 0.0004,
+        "NEA_a_au_err2": 0.0004,
+        "NEA_pl_rad_e:": 5.3,
+        "NEA_pl_rad_e_err1": 0.27,
+        "NEA_pl_rad_e_err2": -0.27,
+        "NEA_pl_mass": 26.4,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 899.0
+    }
+}

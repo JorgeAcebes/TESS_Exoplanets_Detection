@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2088",
+    "planet_name": "TOI-2088 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.831423,
+        "mass_Msun": 0.802
+    },
+    "bls": {
+        "period_days": 17.81870818708187,
+        "t0": 1698.312954336607,
+        "depth": 0.0002699164518657338,
+        "duration_days": 0.25
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.489935238636072,
+        "semi_major_axis_AU": 0.12404425311309786
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2088 b",
+        "NEA_st_host": "TOI-2088",
+        "NEA_st_Teff": 5081.0,
+        "NEA_st_rad": 0.8481,
+        "NEA_st_mass": 0.9027,
+        "NEA_ra": 261.3748943,
+        "NEA_dec": 75.8822796,
+        "NEA_period_day": 124.72997,
+        "NEA_a_au": 0.472,
+        "NEA_a_au_err1": 0.009,
+        "NEA_a_au_err2": 0.009,
+        "NEA_pl_rad_e:": 3.6831179,
+        "NEA_pl_rad_e_err1": 0.19277867,
+        "NEA_pl_rad_e_err2": -0.14072298,
+        "NEA_pl_mass": 37.0,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 300.33
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-5573",
+    "planet_name": "TOI-5573 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.594373,
+        "mass_Msun": 0.583474
+    },
+    "bls": {
+        "period_days": 8.79908799087991,
+        "t0": 3313.058596218452,
+        "depth": 0.01799075424532657,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 8.695898015111485,
+        "semi_major_axis_AU": 0.06970008781579952
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-5573 b",
+        "NEA_st_host": "TOI-5573",
+        "NEA_st_Teff": 3790.0,
+        "NEA_st_rad": 0.594,
+        "NEA_st_mass": 0.619,
+        "NEA_ra": 136.4259999,
+        "NEA_dec": 55.3071309,
+        "NEA_period_day": 8.79758977,
+        "NEA_a_au": 0.0712,
+        "NEA_a_au_err1": 0.0008,
+        "NEA_a_au_err2": 0.0008,
+        "NEA_pl_rad_e:": 9.75,
+        "NEA_pl_rad_e_err1": 0.47,
+        "NEA_pl_rad_e_err2": -0.47,
+        "NEA_pl_mass": 112.0,
+        "NEA_ins_flux": 12.92,
+        "NEA_pl_eq_temp": 528.0
+    }
+}

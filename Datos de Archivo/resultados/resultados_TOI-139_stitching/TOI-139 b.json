@@ -1,0 +1,38 @@
+{
+    "target": "TOI-139",
+    "planet_name": "TOI-139 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.700727,
+        "mass_Msun": 0.69
+    },
+    "bls": {
+        "period_days": 17.876233762337623,
+        "t0": 1338.7006860906538,
+        "depth": 0.001722394617284306,
+        "duration_days": 0.2
+    },
+    "physical": {
+        "planet_radius_Rearth": 3.1720926295298635,
+        "semi_major_axis_AU": 0.1182319254806141
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-139 b",
+        "NEA_st_host": "TOI-139",
+        "NEA_st_Teff": 4570.0,
+        "NEA_st_rad": 0.7007,
+        "NEA_st_mass": 0.69,
+        "NEA_ra": 336.4024144,
+        "NEA_dec": -34.9097131,
+        "NEA_period_day": 11.07085,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 2.4566,
+        "NEA_pl_rad_e_err1": 0.2122,
+        "NEA_pl_rad_e_err2": -0.1245,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 561.17
+    }
+}

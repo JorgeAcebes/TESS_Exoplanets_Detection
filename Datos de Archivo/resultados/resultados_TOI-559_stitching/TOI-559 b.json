@@ -1,0 +1,38 @@
+{
+    "target": "TOI-559",
+    "planet_name": "TOI-559 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.20876,
+        "mass_Msun": 1.1
+    },
+    "bls": {
+        "period_days": 13.967809678096781,
+        "t0": 2152.223788266674,
+        "depth": 0.0030615652756391023,
+        "duration_days": 0.2
+    },
+    "physical": {
+        "planet_radius_Rearth": 7.295289335983453,
+        "semi_major_axis_AU": 0.11717028410597752
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-559 b",
+        "NEA_st_host": "TOI-559",
+        "NEA_st_Teff": 5925.0,
+        "NEA_st_rad": 1.233,
+        "NEA_st_mass": 1.026,
+        "NEA_ra": 46.8186159,
+        "NEA_dec": -31.1629951,
+        "NEA_period_day": 6.9839095,
+        "NEA_a_au": 0.0723,
+        "NEA_a_au_err1": 0.0013,
+        "NEA_a_au_err2": 0.0013,
+        "NEA_pl_rad_e:": 12.22899794,
+        "NEA_pl_rad_e_err1": 0.31385146,
+        "NEA_pl_rad_e_err2": -0.28022452,
+        "NEA_pl_mass": 1910.14872607,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1180.0
+    }
+}

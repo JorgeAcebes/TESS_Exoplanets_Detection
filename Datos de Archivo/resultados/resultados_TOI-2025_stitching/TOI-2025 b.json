@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2025",
+    "planet_name": "TOI-2025 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.47996,
+        "mass_Msun": 1.123
+    },
+    "bls": {
+        "period_days": 8.872018720187203,
+        "t0": 2391.1870122463574,
+        "depth": 0.00316688873391009,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 9.084416957961668,
+        "semi_major_axis_AU": 0.0871784748871937
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2025 b",
+        "NEA_st_host": "TOI-2025",
+        "NEA_st_Teff": 5977.0,
+        "NEA_st_rad": 1.459,
+        "NEA_st_mass": 1.199,
+        "NEA_ra": 282.7952558,
+        "NEA_dec": 82.2454143,
+        "NEA_period_day": 8.8720982,
+        "NEA_a_au": 0.0892,
+        "NEA_a_au_err1": 0.0018,
+        "NEA_a_au_err2": 0.0018,
+        "NEA_pl_rad_e:": 11.89272852,
+        "NEA_pl_rad_e_err1": 0.36989636,
+        "NEA_pl_rad_e_err2": -0.3474784,
+        "NEA_pl_mass": 1144.1822652,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1166.0
+    }
+}

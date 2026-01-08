@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4010",
+    "planet_name": "TOI-4010 d",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.880213,
+        "mass_Msun": 0.799
+    },
+    "bls": {
+        "period_days": 14.708927089270892,
+        "t0": 2721.426768203029,
+        "depth": 0.003593462786531847,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 5.755393653218677,
+        "semi_major_axis_AU": 0.10901944630035562
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4010 d",
+        "NEA_st_host": "TOI-4010",
+        "NEA_st_Teff": 4960.0,
+        "NEA_st_rad": 0.83,
+        "NEA_st_mass": 0.88,
+        "NEA_ra": 20.2148196,
+        "NEA_dec": 66.0722009,
+        "NEA_period_day": 14.70886,
+        "NEA_a_au": 0.113,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": -0.001,
+        "NEA_pl_rad_e:": 6.18,
+        "NEA_pl_rad_e_err1": 0.14,
+        "NEA_pl_rad_e_err2": -0.15,
+        "NEA_pl_mass": 38.15,
+        "NEA_ins_flux": 30.0,
+        "NEA_pl_eq_temp": 650.0
+    }
+}

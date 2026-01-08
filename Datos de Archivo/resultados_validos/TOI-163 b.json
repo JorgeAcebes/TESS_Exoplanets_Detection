@@ -1,0 +1,38 @@
+{
+    "target": "TOI-163",
+    "planet_name": "TOI-163 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.66402,
+        "mass_Msun": 1.41
+    },
+    "bls": {
+        "period_days": 4.231167311673117,
+        "t0": 1544.655707894508,
+        "depth": 0.0038677354575634023,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 11.288015627441073,
+        "semi_major_axis_AU": 0.05740911942901301
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-163 b",
+        "NEA_st_host": "TOI-163",
+        "NEA_st_Teff": 6495.0,
+        "NEA_st_rad": 1.648,
+        "NEA_st_mass": 1.4352,
+        "NEA_ra": 79.7682532,
+        "NEA_dec": -71.8955269,
+        "NEA_period_day": 4.231306,
+        "NEA_a_au": 0.058,
+        "NEA_a_au_err1": 0.0014,
+        "NEA_a_au_err2": 0.0014,
+        "NEA_pl_rad_e:": 16.690201,
+        "NEA_pl_rad_e_err1": 0.381106,
+        "NEA_pl_rad_e_err2": -0.381106,
+        "NEA_pl_mass": 387.7526,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1669.0
+    }
+}

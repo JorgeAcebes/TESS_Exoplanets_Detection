@@ -1,0 +1,38 @@
+{
+    "target": "TOI-6894",
+    "planet_name": "TOI-6894 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.222121,
+        "mass_Msun": 0.191349
+    },
+    "bls": {
+        "period_days": 3.371208712087121,
+        "t0": 3262.848070715649,
+        "depth": 0.11331286832661128,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 8.155675090527073,
+        "semi_major_axis_AU": 0.02535519031809175
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-6894 b",
+        "NEA_st_host": "TOI-6894",
+        "NEA_st_Teff": 3007.0,
+        "NEA_st_rad": 0.2276,
+        "NEA_st_mass": 0.207,
+        "NEA_ra": 173.4691418,
+        "NEA_dec": 12.4510906,
+        "NEA_period_day": 3.37077196,
+        "NEA_a_au": 0.02604,
+        "NEA_a_au_err1": 0.00045,
+        "NEA_a_au_err2": 0.00045,
+        "NEA_pl_rad_e:": 9.5836785,
+        "NEA_pl_rad_e_err1": 0.24659758,
+        "NEA_pl_rad_e_err2": -0.24659758,
+        "NEA_pl_mass": 53.39517238,
+        "NEA_ins_flux": 5.54,
+        "NEA_pl_eq_temp": 417.9
+    }
+}

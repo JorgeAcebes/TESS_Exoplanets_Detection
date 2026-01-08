@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1855",
+    "planet_name": "TOI-1855 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.08099,
+        "mass_Msun": 0.92
+    },
+    "bls": {
+        "period_days": 1.3642486424864249,
+        "t0": 2666.0816467986783,
+        "depth": 0.004204150136476283,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 7.645245998569848,
+        "semi_major_axis_AU": 0.02341312289271741
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1855 b",
+        "NEA_st_host": "TOI-1855",
+        "NEA_st_Teff": 5359.0,
+        "NEA_st_rad": 1.041,
+        "NEA_st_mass": 0.987,
+        "NEA_ra": 205.3539534,
+        "NEA_dec": 17.6868719,
+        "NEA_period_day": 1.36414864,
+        "NEA_a_au": 0.02398,
+        "NEA_a_au_err1": 0.00046,
+        "NEA_a_au_err2": 0.00046,
+        "NEA_pl_rad_e:": 18.49481816,
+        "NEA_pl_rad_e_err1": 5.82866996,
+        "NEA_pl_rad_e_err2": -4.14732286,
+        "NEA_pl_mass": 360.09958513,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1701.0
+    }
+}

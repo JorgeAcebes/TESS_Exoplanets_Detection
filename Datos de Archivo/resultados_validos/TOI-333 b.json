@@ -1,0 +1,38 @@
+{
+    "target": "TOI-333",
+    "planet_name": "TOI-333 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.129,
+        "mass_Msun": 1.17
+    },
+    "bls": {
+        "period_days": 3.7851978519785203,
+        "t0": 2089.9296139926855,
+        "depth": 0.0010337979151347368,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 3.9595191446843585,
+        "semi_major_axis_AU": 0.05008665853402283
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-333 b",
+        "NEA_st_host": "TOI-333",
+        "NEA_st_Teff": 6241.0,
+        "NEA_st_rad": 1.1,
+        "NEA_st_mass": 1.2,
+        "NEA_ra": 353.3574989,
+        "NEA_dec": -41.1715206,
+        "NEA_period_day": 3.7852503,
+        "NEA_a_au": 0.049,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 4.26,
+        "NEA_pl_rad_e_err1": 0.11,
+        "NEA_pl_rad_e_err2": -0.11,
+        "NEA_pl_mass": 20.1,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1445.0
+    }
+}

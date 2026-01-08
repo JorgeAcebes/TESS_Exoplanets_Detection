@@ -1,0 +1,38 @@
+{
+    "target": "TOI-3493",
+    "planet_name": "TOI-3493 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.21151,
+        "mass_Msun": 1.06
+    },
+    "bls": {
+        "period_days": 8.159481594815947,
+        "t0": 2313.0418024934156,
+        "depth": 0.0004157346668901907,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.6944231595106234,
+        "semi_major_axis_AU": 0.08087445776275246
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-3493 b",
+        "NEA_st_host": "TOI-3493",
+        "NEA_st_Teff": 5844.0,
+        "NEA_st_rad": 1.228,
+        "NEA_st_mass": 1.023,
+        "NEA_ra": 205.7990331,
+        "NEA_dec": -22.5854441,
+        "NEA_period_day": 8.1594667,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 3.22,
+        "NEA_pl_rad_e_err1": 0.08,
+        "NEA_pl_rad_e_err2": -0.08,
+        "NEA_pl_mass": 8.97,
+        "NEA_ins_flux": 245.0,
+        "NEA_pl_eq_temp": 1102.0
+    }
+}

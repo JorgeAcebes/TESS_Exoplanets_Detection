@@ -1,0 +1,38 @@
+{
+    "target": "TOI-5110",
+    "planet_name": "TOI-5110 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 2.38245,
+        "mass_Msun": 1.139
+    },
+    "bls": {
+        "period_days": 19.397248972489724,
+        "t0": 2956.043962634318,
+        "depth": 0.002034916735024525,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 11.72270391309837,
+        "semi_major_axis_AU": 0.14754881192193608
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-5110 b",
+        "NEA_st_host": "TOI-5110",
+        "NEA_st_Teff": 6160.0,
+        "NEA_st_rad": 2.333,
+        "NEA_st_mass": 1.469,
+        "NEA_ra": 94.4042694,
+        "NEA_dec": 31.6103309,
+        "NEA_period_day": 30.158577,
+        "NEA_a_au": 0.2157,
+        "NEA_a_au_err1": 0.0042,
+        "NEA_a_au_err2": 0.0042,
+        "NEA_pl_rad_e:": 11.98240037,
+        "NEA_pl_rad_e_err1": 0.60528496,
+        "NEA_pl_rad_e_err2": -0.582867,
+        "NEA_pl_mass": 921.7023803,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 976.0
+    }
+}

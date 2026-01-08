@@ -1,0 +1,38 @@
+{
+    "target": "TOI-220",
+    "planet_name": "TOI-220 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.881545,
+        "mass_Msun": 0.9
+    },
+    "bls": {
+        "period_days": 10.695286952869528,
+        "t0": 1335.9002907108172,
+        "depth": 0.000491715534124887,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.132220576375569,
+        "semi_major_axis_AU": 0.09172270328495287
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-220 b",
+        "NEA_st_host": "TOI-220",
+        "NEA_st_Teff": 5298.0,
+        "NEA_st_rad": 0.858,
+        "NEA_st_mass": 0.825,
+        "NEA_ra": 91.7996988,
+        "NEA_dec": -61.9972098,
+        "NEA_period_day": 10.695264,
+        "NEA_a_au": 0.08911,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 3.03,
+        "NEA_pl_rad_e_err1": 0.15,
+        "NEA_pl_rad_e_err2": -0.15,
+        "NEA_pl_mass": 13.8,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 805.0
+    }
+}

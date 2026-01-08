@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2120",
+    "planet_name": "TOI-2120 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.240233,
+        "mass_Msun": 0.210366
+    },
+    "bls": {
+        "period_days": 5.799762997629976,
+        "t0": 1795.8352314767558,
+        "depth": 0.004363659872671277,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.730967006439516,
+        "semi_major_axis_AU": 0.0375721801769224
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2120 b",
+        "NEA_st_host": "TOI-2120",
+        "NEA_st_Teff": 3131.0,
+        "NEA_st_rad": 0.245,
+        "NEA_st_mass": 0.211,
+        "NEA_ra": 23.507315,
+        "NEA_dec": 65.5139877,
+        "NEA_period_day": 5.7998164,
+        "NEA_a_au": 0.0377,
+        "NEA_a_au_err1": 0.0013,
+        "NEA_a_au_err2": 0.0013,
+        "NEA_pl_rad_e:": 2.122,
+        "NEA_pl_rad_e_err1": 0.065,
+        "NEA_pl_rad_e_err2": -0.065,
+        "NEA_pl_mass": 6.8,
+        "NEA_ins_flux": 3.61,
+        "NEA_pl_eq_temp": 384.0
+    }
+}

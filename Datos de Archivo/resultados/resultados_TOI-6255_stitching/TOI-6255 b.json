@@ -1,0 +1,38 @@
+{
+    "target": "TOI-6255",
+    "planet_name": "TOI-6255 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.369077,
+        "mass_Msun": 0.356208
+    },
+    "bls": {
+        "period_days": 14.486709867098671,
+        "t0": 1744.2514551092588,
+        "depth": 0.0011742451331871666,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.3795169644083591,
+        "semi_major_axis_AU": 0.08244204953532246
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-6255 b",
+        "NEA_st_host": "TOI-6255",
+        "NEA_st_Teff": 3421.0,
+        "NEA_st_rad": 0.37,
+        "NEA_st_mass": 0.353,
+        "NEA_ra": 331.5031606,
+        "NEA_dec": 39.2988284,
+        "NEA_period_day": 0.23818244,
+        "NEA_a_au": NaN,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 1.079,
+        "NEA_pl_rad_e_err1": 0.065,
+        "NEA_pl_rad_e_err2": -0.065,
+        "NEA_pl_mass": 1.44,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": NaN
+    }
+}

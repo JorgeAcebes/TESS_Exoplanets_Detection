@@ -1,0 +1,38 @@
+{
+    "target": "TOI-237",
+    "planet_name": "TOI-237 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.211299,
+        "mass_Msun": 0.180288
+    },
+    "bls": {
+        "period_days": 5.4360843608436085,
+        "t0": 1355.2634205092074,
+        "depth": 0.002858783075509008,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.232306451403674,
+        "semi_major_axis_AU": 0.03418068648864953
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-237 b",
+        "NEA_st_host": "TOI-237",
+        "NEA_st_Teff": 3212.0,
+        "NEA_st_rad": 0.211,
+        "NEA_st_mass": 0.179,
+        "NEA_ra": 353.2435381,
+        "NEA_dec": -29.416487,
+        "NEA_period_day": 5.436098,
+        "NEA_a_au": 0.0341,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 1.44,
+        "NEA_pl_rad_e_err1": 0.12,
+        "NEA_pl_rad_e_err2": -0.12,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 3.7,
+        "NEA_pl_eq_temp": 388.0
+    }
+}

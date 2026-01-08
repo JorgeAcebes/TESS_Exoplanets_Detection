@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1846",
+    "planet_name": "TOI-1846 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.411452,
+        "mass_Msun": 0.404348
+    },
+    "bls": {
+        "period_days": 3.9306693066930665,
+        "t0": 1768.0284700183056,
+        "depth": 0.0014067536378467756,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.6832897558226063,
+        "semi_major_axis_AU": 0.03604379299536766
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1846 b",
+        "NEA_st_host": "TOI-1846",
+        "NEA_st_Teff": 3568.0,
+        "NEA_st_rad": 0.397,
+        "NEA_st_mass": 0.418,
+        "NEA_ra": 257.9549645,
+        "NEA_dec": 54.5278483,
+        "NEA_period_day": 3.9306737,
+        "NEA_a_au": 0.03646,
+        "NEA_a_au_err1": 0.00072,
+        "NEA_a_au_err2": 0.00072,
+        "NEA_pl_rad_e:": 1.792,
+        "NEA_pl_rad_e_err1": 0.065,
+        "NEA_pl_rad_e_err2": -0.068,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 17.35,
+        "NEA_pl_eq_temp": 568.1
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "target": "TOI-677",
+    "planet_name": "TOI-677 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.28844,
+        "mass_Msun": 1.18
+    },
+    "bls": {
+        "period_days": 11.236612366123662,
+        "t0": 1547.4709816958455,
+        "depth": 0.003201887478454625,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 7.952394408652557,
+        "semi_major_axis_AU": 0.103749333925136
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-677 b",
+        "NEA_st_host": "TOI-677",
+        "NEA_st_Teff": 6295.0,
+        "NEA_st_rad": 1.28,
+        "NEA_st_mass": 1.181,
+        "NEA_ra": 144.1193594,
+        "NEA_dec": -50.4630933,
+        "NEA_period_day": 11.2365985,
+        "NEA_a_au": 0.1041,
+        "NEA_a_au_err1": 0.0035,
+        "NEA_a_au_err2": 0.0035,
+        "NEA_pl_rad_e:": 13.11450742,
+        "NEA_pl_rad_e_err1": 0.32506044,
+        "NEA_pl_rad_e_err2": -0.33626942,
+        "NEA_pl_mass": 392.20025424,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1252.0
+    }
+}

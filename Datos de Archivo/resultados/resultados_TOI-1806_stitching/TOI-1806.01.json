@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1806",
+    "planet_name": "TOI-1806.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.401575,
+        "mass_Msun": 0.393258
+    },
+    "bls": {
+        "period_days": 8.196141961419613,
+        "t0": 1905.2280004582324,
+        "depth": 0.004388215495742344,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.9016252419322672,
+        "semi_major_axis_AU": 0.058286308698760524
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1806.01",
+        "NEA_st_host": "TOI-1806",
+        "NEA_st_Teff": 3272.0,
+        "NEA_st_rad": 0.401575,
+        "NEA_st_mass": 0.392935,
+        "NEA_ra": 166.1181474,
+        "NEA_dec": 30.4585763,
+        "NEA_period_day": 15.1454693,
+        "NEA_a_au": 0.087735044,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 3.4095367,
+        "NEA_pl_rad_e_err1": 0.3512672,
+        "NEA_pl_rad_e_err2": -0.3512672,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 2.1473,
+        "NEA_pl_eq_temp": 337.47
+    }
+}

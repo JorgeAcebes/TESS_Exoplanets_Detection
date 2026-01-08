@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1753",
+    "planet_name": "TOI-1753 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.959022,
+        "mass_Msun": 1.015
+    },
+    "bls": {
+        "period_days": 5.384603846038461,
+        "t0": 1684.5089260116047,
+        "depth": 0.000585206237550203,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.530543006409339,
+        "semi_major_axis_AU": 0.06042160176713723
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1753 b",
+        "NEA_st_host": "TOI-1753",
+        "NEA_st_Teff": 5621.0,
+        "NEA_st_rad": 0.9715,
+        "NEA_st_mass": 0.9483,
+        "NEA_ra": 252.4698351,
+        "NEA_dec": 61.1735768,
+        "NEA_period_day": 5.3846104,
+        "NEA_a_au": 0.059,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 2.47852533,
+        "NEA_pl_rad_e_err1": 0.09834485,
+        "NEA_pl_rad_e_err2": -0.07935468,
+        "NEA_pl_mass": 16.6,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1005.43
+    }
+}

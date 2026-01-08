@@ -1,0 +1,38 @@
+{
+    "target": "TOI-907",
+    "planet_name": "TOI-907.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 2.05979,
+        "mass_Msun": 1.2
+    },
+    "bls": {
+        "period_days": 4.58490084900849,
+        "t0": 1631.6430683611086,
+        "depth": 0.001223027733340143,
+        "duration_days": 0.2
+    },
+    "physical": {
+        "planet_radius_Rearth": 7.857271811387788,
+        "semi_major_axis_AU": 0.05739597391685179
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-907.01",
+        "NEA_st_host": "TOI-907",
+        "NEA_st_Teff": 6272.0,
+        "NEA_st_rad": 2.059789,
+        "NEA_st_mass": 1.069357,
+        "NEA_ra": 262.1834072,
+        "NEA_dec": -62.840383,
+        "NEA_period_day": 4.5849129,
+        "NEA_a_au": 0.055225481,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 9.6158851,
+        "NEA_pl_rad_e_err1": 0.6116279,
+        "NEA_pl_rad_e_err2": -0.6116279,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 1729.6714,
+        "NEA_pl_eq_temp": 1846.6
+    }
+}

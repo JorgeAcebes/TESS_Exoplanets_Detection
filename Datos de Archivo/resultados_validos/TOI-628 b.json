@@ -1,0 +1,38 @@
+{
+    "target": "TOI-628",
+    "planet_name": "TOI-628 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.38398,
+        "mass_Msun": 1.179
+    },
+    "bls": {
+        "period_days": 3.410209102091021,
+        "t0": 3668.389663175659,
+        "depth": 0.002909353801993849,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 8.142518661084004,
+        "semi_major_axis_AU": 0.0468410178016217
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-628 b",
+        "NEA_st_host": "TOI-628",
+        "NEA_st_Teff": 6250.0,
+        "NEA_st_rad": 1.345,
+        "NEA_st_mass": 1.311,
+        "NEA_ra": 99.2630608,
+        "NEA_dec": 1.7675497,
+        "NEA_period_day": 3.4095675,
+        "NEA_a_au": 0.0486,
+        "NEA_a_au_err1": 0.0008,
+        "NEA_a_au_err2": 0.0008,
+        "NEA_pl_rad_e:": 11.88154,
+        "NEA_pl_rad_e_err1": 0.459569,
+        "NEA_pl_rad_e_err2": -0.381106,
+        "NEA_pl_mass": 2011.8639,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1586.0
+    }
+}

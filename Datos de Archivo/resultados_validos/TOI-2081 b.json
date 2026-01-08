@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2081",
+    "planet_name": "TOI-2081 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.515547,
+        "mass_Msun": 0.513208
+    },
+    "bls": {
+        "period_days": 10.505550055500555,
+        "t0": 1685.8799829766901,
+        "depth": 0.0010825031769400013,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.850178087309794,
+        "semi_major_axis_AU": 0.07515849103976376
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2081 b",
+        "NEA_st_host": "TOI-2081",
+        "NEA_st_Teff": 3800.0,
+        "NEA_st_rad": 0.534,
+        "NEA_st_mass": 0.54,
+        "NEA_ra": 264.3022634,
+        "NEA_dec": 53.0255666,
+        "NEA_period_day": 10.50534,
+        "NEA_a_au": 0.0752,
+        "NEA_a_au_err1": 0.0047,
+        "NEA_a_au_err2": 0.0047,
+        "NEA_pl_rad_e:": 2.04,
+        "NEA_pl_rad_e_err1": 0.5,
+        "NEA_pl_rad_e_err2": -0.54,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 8.1,
+        "NEA_pl_eq_temp": 488.0
+    }
+}

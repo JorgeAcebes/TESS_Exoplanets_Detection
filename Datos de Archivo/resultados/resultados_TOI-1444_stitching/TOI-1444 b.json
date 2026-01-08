@@ -1,0 +1,38 @@
+{
+    "target": "TOI-1444",
+    "planet_name": "TOI-1444 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.92499,
+        "mass_Msun": 0.956
+    },
+    "bls": {
+        "period_days": 0.9405094050940511,
+        "t0": 1711.8804321930024,
+        "depth": 9.888572536760595e-05,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 1.003308562604781,
+        "semi_major_axis_AU": 0.018506705244747908
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-1444 b",
+        "NEA_st_host": "TOI-1444",
+        "NEA_st_Teff": 5377.0,
+        "NEA_st_rad": 0.91,
+        "NEA_st_mass": 0.88,
+        "NEA_ra": 305.4749252,
+        "NEA_dec": 70.9437054,
+        "NEA_period_day": 0.470269,
+        "NEA_a_au": 0.011600000000000001,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 1.42,
+        "NEA_pl_rad_e_err1": 0.04,
+        "NEA_pl_rad_e_err2": -0.04,
+        "NEA_pl_mass": 3.34,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 2130.02
+    }
+}

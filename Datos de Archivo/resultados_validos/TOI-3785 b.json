@@ -1,0 +1,38 @@
+{
+    "target": "TOI-3785",
+    "planet_name": "TOI-3785 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.498029,
+        "mass_Msun": 0.496104
+    },
+    "bls": {
+        "period_days": 4.67479674796748,
+        "t0": 2581.4017496583606,
+        "depth": 0.008598363659281556,
+        "duration_days": 0.05
+    },
+    "physical": {
+        "planet_radius_Rearth": 5.037246643156697,
+        "semi_major_axis_AU": 0.04331454736863688
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-3785 b",
+        "NEA_st_host": "TOI-3785",
+        "NEA_st_Teff": 3576.0,
+        "NEA_st_rad": 0.5,
+        "NEA_st_mass": 0.52,
+        "NEA_ra": 130.9002258,
+        "NEA_dec": 63.0780768,
+        "NEA_period_day": 4.6747373,
+        "NEA_a_au": 0.043,
+        "NEA_a_au_err1": 0.001,
+        "NEA_a_au_err2": 0.001,
+        "NEA_pl_rad_e:": 5.14,
+        "NEA_pl_rad_e_err1": 0.16,
+        "NEA_pl_rad_e_err2": -0.16,
+        "NEA_pl_mass": 14.95,
+        "NEA_ins_flux": 19.1,
+        "NEA_pl_eq_temp": 582.0
+    }
+}

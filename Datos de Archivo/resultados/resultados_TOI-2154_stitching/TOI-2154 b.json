@@ -1,0 +1,38 @@
+{
+    "target": "TOI-2154",
+    "planet_name": "TOI-2154 b",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.38719,
+        "mass_Msun": 1.21
+    },
+    "bls": {
+        "period_days": 3.8240032400324,
+        "t0": 2393.355807042286,
+        "depth": 0.0037930113837251907,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 9.318772334952984,
+        "semi_major_axis_AU": 0.05099665296181511
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-2154 b",
+        "NEA_st_host": "TOI-2154",
+        "NEA_st_Teff": 6280.0,
+        "NEA_st_rad": 1.396,
+        "NEA_st_mass": 1.233,
+        "NEA_ra": 71.0281482,
+        "NEA_dec": 84.3642652,
+        "NEA_period_day": 3.8240801,
+        "NEA_a_au": 0.0513,
+        "NEA_a_au_err1": 0.0011,
+        "NEA_a_au_err2": 0.0011,
+        "NEA_pl_rad_e:": 16.28664896,
+        "NEA_pl_rad_e_err1": 0.59407598,
+        "NEA_pl_rad_e_err2": -0.53803107,
+        "NEA_pl_mass": 292.40213444,
+        "NEA_ins_flux": NaN,
+        "NEA_pl_eq_temp": 1580.0
+    }
+}

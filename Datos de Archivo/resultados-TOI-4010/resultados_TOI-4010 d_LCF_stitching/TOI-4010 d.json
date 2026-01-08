@@ -1,0 +1,22 @@
+{
+    "target": "TOI-4010",
+    "planet_name": "TOI-4010 d",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 0.880213,
+        "mass_Msun": 0.799
+    },
+    "bls": {
+        "period_days": 14.708927089270892,
+        "t0": 2721.426768203029,
+        "depth": 0.003593462786531847,
+        "duration_days": 0.1
+    },
+    "physical": {
+        "planet_radius_Rearth": 5.755393653218677,
+        "planet_radius_err_Re": 0.39605358818250264,
+        "semi_major_axis_AU": 0.10901944630035562,
+        "a_err": 0.004411230614542795,
+        "snr": 21.963579255901816
+    }
+}

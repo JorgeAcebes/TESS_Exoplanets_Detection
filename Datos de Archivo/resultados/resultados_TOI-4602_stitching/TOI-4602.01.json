@@ -1,0 +1,38 @@
+{
+    "target": "TOI-4602",
+    "planet_name": "TOI-4602.01",
+    "from": "Transit (TESS)",
+    "stellar": {
+        "radius_Rsun": 1.15664,
+        "mass_Msun": 1.11
+    },
+    "bls": {
+        "period_days": 3.9813698136981377,
+        "t0": 2476.724302185583,
+        "depth": 0.00027789997261839074,
+        "duration_days": 0.15
+    },
+    "physical": {
+        "planet_radius_Rearth": 2.103163996745468,
+        "semi_major_axis_AU": 0.05090147741022728
+    },
+    "NEA": {
+        "NEA_pl_name": "TOI-4602.01",
+        "NEA_st_host": "TOI-4602",
+        "NEA_st_Teff": 6011.9,
+        "NEA_st_rad": 1.15664,
+        "NEA_st_mass": 1.116795,
+        "NEA_ra": 60.6003316,
+        "NEA_dec": 31.3298354,
+        "NEA_period_day": 3.9812091,
+        "NEA_a_au": 0.05099712,
+        "NEA_a_au_err1": NaN,
+        "NEA_a_au_err2": NaN,
+        "NEA_pl_rad_e:": 2.550449,
+        "NEA_pl_rad_e_err1": 0.7836124,
+        "NEA_pl_rad_e_err2": -0.7836124,
+        "NEA_pl_mass": NaN,
+        "NEA_ins_flux": 603.6935,
+        "NEA_pl_eq_temp": 1380.27
+    }
+}
