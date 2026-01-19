@@ -1,0 +1,45 @@
+## --- LaTeX ---
+# Archivos auxiliares de compilación
+*.aux
+*.log
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+
+## --- Jupyter / Python ---
+# Checkpoints y caché
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.env
+.venv/
+env/
+venv/
+bin/
+lib/
+
+## --- Datos y Gráficos ---
+# Ignorar datos crudos pesados o binarios
+*.csv
+*.npy
+*.npz
+*.h5
+*.mat
+
+## --- IDE y Sistema ---
+.vscode/
+.DS_Store
+Thumbs.db
