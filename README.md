@@ -1,4 +1,4 @@
-Detección de Tránsitos con TESS y Caracterización
+##Detección de Tránsitos con TESS y Caracterización
 
 Este proyecto presenta un marco integral para el estudio de sistemas exoplanetarios mediante fotometría terrestre (UAM) y espacial (misión TESS)
 
