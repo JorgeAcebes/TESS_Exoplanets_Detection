@@ -11,6 +11,6 @@ Este proyecto presenta un marco integral para el estudio de sistemas exoplanetar
 **Problema de los múltiplos en BLS**: https://youtu.be/bqMKcUJn14k
 
 ##
-**Autor:** Jorge Acebes Hernández
-**Asignatura:** Técnicas Experimentales Avanzadas, UAM
+**Autor:** Jorge Acebes Hernández  
+**Asignatura:** Técnicas Experimentales Avanzadas, UAM  
 **Curso:** 2025-2026
