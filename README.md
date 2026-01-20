@@ -7,7 +7,7 @@ Este proyecto presenta un marco integral para el estudio de sistemas exoplanetar
 **Datos Propios**: Se incluye el pipeline de reducción para las observaciones realizadas desde el observatorio de la UAM, pero los archivos FITS brutos no se han subido al repositorio debido a su elevado peso y volumen de almacenamiento
 
 ## YouTube vídeos
-**Cómo funciona BLS**: https://youtu.be/3ymmgbYs42M  \\
+**Cómo funciona BLS**: https://youtu.be/3ymmgbYs42M  \n
 **Problema de los múltiplos en BLS**: https://youtu.be/bqMKcUJn14k
 
 ##
